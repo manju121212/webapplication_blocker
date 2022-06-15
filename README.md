@@ -23,8 +23,8 @@
   
    ![Screen Shot 15-06-2022 at 11 33](https://user-images.githubusercontent.com/87922695/173754011-bcb6aff6-4d87-4df4-a6c3-bb90cc65b86b.png)
 
-   ![Screen Shot 15-06-2022 at 10 58](https://user-images.githubusercontent.com/87922695/173751854-71b98a44-0b67-4552-a951-97e0dcab8fbc.png)
-  
+   ![Screen Shot 15-06-2022 at 11 50](https://user-images.githubusercontent.com/87922695/173756655-c0b6e78b-30ef-4c82-8b9d-925d4ca42af8.png)
+
   
   
 #Non Working Hours:
