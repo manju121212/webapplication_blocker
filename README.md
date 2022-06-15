@@ -19,7 +19,7 @@
   
   
   
-<i class="fa fa-link" aria-hidden="true"></i>Working Hours: 
+#Working Hours: 
   
    ![Screen Shot 15-06-2022 at 11 33](https://user-images.githubusercontent.com/87922695/173754011-bcb6aff6-4d87-4df4-a6c3-bb90cc65b86b.png)
 
