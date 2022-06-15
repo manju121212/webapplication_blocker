@@ -1,0 +1,1 @@
+# webapplication_blocker[15min breakout and never came back on 15 min candle.txt](https://github.com/manju121212/webapplication_blocker/files/8909487/15min.breakout.and.never.came.back.on.15.min.candle.txt)
