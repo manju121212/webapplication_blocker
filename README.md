@@ -3,8 +3,7 @@
 
 #About:
 
-   This Web application Blocker is developed using Python and its Libraries. I have developed this application because during working hours I was always getting            distracted i.e. I was always spending hours and hours in web application like  Facebook and Instagram during working hours so to avoid this I developed one project 
-   that will block my application during working hours and unblocked during non working hours . This Project is very simple and helpful for students and employees who      are getting distract during there working hours.
+   This Web application Blocker is developed using Python and its Libraries. I have developed this application because during working hours I was always getting            distracted i.e. I was always spending hours and hours in web application like  Facebook and Instagram during working hours so to avoid this I developed one project t    that will block my application during working hours and unblocked during non working hours . This Project is very simple and helpful for students and employees who      are getting distract during there working hours.
   
   
   
@@ -28,5 +27,7 @@
   
   
 #Non Working Hours:
+
+  
 
   
