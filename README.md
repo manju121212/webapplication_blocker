@@ -1,6 +1,6 @@
 
 
-# Web application Blocker
+# Simple Web application Blocker
 
 
 
